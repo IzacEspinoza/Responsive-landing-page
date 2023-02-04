@@ -1,0 +1,42 @@
+*{
+    /* padding: 0; */
+    margin: 0;
+}
+/*Header section styles*/
+#header{
+    font-size:18px;
+    color: #E5E7EB;
+}
+#header h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+/*Nav bar styles*/
+#top-nav{
+    
+}
+#top-nav .links{
+    list-style-type: none;
+}
+.logo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+/*Quote section styles*/
+#quote{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+/*Footer styles*/
+footer{
+    color: #E5E7EB;
+}
+/*Misc*/
+#header, footer{
+    background-color: #1F2937;
+}
+#info, #call-to-action{
+}
