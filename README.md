@@ -1,6 +1,9 @@
 # Responsive-landing-page
 Landing page project to practice CSS flex-box design, as well as responsive design
 
+## Take a preview of the project:
+https://izacespinoza.github.io/Responsive-landing-page/
+
 ## Practicing flexbox
 Project is mainly built as part of The Odin Project Curriculum.  After extensive practice and reading of various CSS fundamentals, this was essentially the 'final' project at the end to actually apply and utilize what I have learned so far.
 
