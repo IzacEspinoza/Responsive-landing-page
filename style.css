@@ -134,6 +134,8 @@ body{
 /*Footer styles*/
 footer{
     color: #E5E7EB;
+    padding: 20px;
+    text-align: center;
 }
 /*Misc*/
 #header, footer{
